@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimaryDark">#9b0000</color>
+    <color name="colorAccent">#ff5131</color>
+
+    <color name="hint_bubble_user">#E6AA9F</color>
+
+    <color name="retry_green">#10DA43</color>
+
+    <color name="text_black">#F2050505</color>
+
+    <color name="colorStatusSent">@android:color/holo_blue_bright</color>
+
+    <color name="colorStatusJobDone">#E3FA04</color>
+    <color name="colorStatusCanceled">#D87B2C</color>
+    <color name="colorStatusClosed">@android:color/holo_purple</color>
+    <color name="colorStatusInProcess">#23AA2B</color>
+    <color name="colorStatusDeclined">@android:color/holo_red_light</color>
+    <color name="colorStatusReturned">#1534E4</color>
+
+
+    <color name="colorStatus6">@android:color/holo_orange_light</color>
+    <color name="colorStatus8">#1A1919</color>
+
+
+
+</resources>

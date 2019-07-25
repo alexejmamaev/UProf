@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UpravbotProf</string>
+
+    <!--Login-->
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="button_login">Войти</string>
+    <string name="hint_login_bubble">Адрес электронной почты или ваш персональный логин</string>
+    <string name="empty_logint_input">Введите корректный логин</string>
+    <string name="empty_password_input">Введите корректный пароль</string>
+    <string name="wrong_login_or_password_input">Ошибка! Проверьте правильность указанных логина и пароля</string>
+    <string name="connection_error">Невозможно установить соединение с сервером. Убедитесь в наличии доступа к интернету.</string>
+
+
+    <!--Main-->
+    <string name="fail_receive_data">Ошибка синхронизации.</string>
+    <string name="retry">Повторить</string>
+    <string name="no_requests_to_display">Нет заявок для отображения</string>
+    <string name="id_number">№%1$s</string>
+    <!--<string name="exit">Вернуться</string>-->
+
+    <string name="long_text">If you’ve ever done threading work on Android before you know there’s typically one huge problem: what happens if your thread finishes (or never finishes) it’s execution after an Activity has been torn down. This can cause a whole host of problems including memory leaks and NullPointerExceptions.</string>
+
+</resources>
